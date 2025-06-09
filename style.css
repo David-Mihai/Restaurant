@@ -1,0 +1,244 @@
+body
+            {
+                margin:0px;
+            }
+            #header
+            {
+                background-color: maroon;
+                border: solid;
+                height: 150px;
+                width:100%;
+                border-color: maroon;
+                position:sticky;
+                top: 0px
+            }
+            #div1
+            {
+                color: white;
+                text-align: center;
+                text-shadow: 1px 2px 0px black;
+            }
+            nav ul 
+            {
+                list-style: none;   /* Elimină punctele */
+                padding: 0;
+                margin: 0;
+            }
+
+            nav ul li 
+            {
+                display: inline-block;  /* Așază <li>-urile pe orizontală */
+                margin-right: 20px;     /* Spațiu între linkuri */
+            }
+
+            nav ul li a 
+            {
+                text-decoration: none;
+                color: black;
+                font-weight: bold;
+                font-size: 25px;
+            }
+
+            nav ul li a:hover 
+            {
+                color: rgb(198, 55, 11);
+            }
+            body
+            {
+                margin:0px;
+            }
+            #header
+            {
+                background-color: maroon;
+                border: solid;
+                height: 150px;
+                width:100%;
+                border-color: maroon;
+                position:sticky;
+                top: 0px
+            }
+            #div1
+            {
+                color: white;
+                text-align: center;
+                text-shadow: 1px 2px 0px black;
+            }
+            nav ul 
+            {
+                list-style: none;   /* Elimină punctele */
+                padding: 0;
+                margin: 0;
+            }
+
+            nav ul li 
+            {
+                display: inline-block;  /* Așază <li>-urile pe orizontală */
+                margin-right: 20px;     /* Spațiu între linkuri */
+            }
+
+            nav ul li a 
+            {
+                text-decoration: none;
+                color: black;
+                font-weight: bold;
+                font-size: 25px;
+            }
+
+            nav ul li a:hover 
+            {
+                color: rgb(198, 55, 11);
+            }
+            /*pizza*/
+            .menu-section 
+            {
+                max-width: 700px;
+                margin: 0 auto;
+                background-color: #fff;
+                border-radius: 12px;
+                padding: 30px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+                .pizza-item 
+                {
+                    margin-bottom: 25px;
+                    border-bottom: 1px solid #eee;
+                    padding-bottom: 15px;
+                }
+                .pizza-header 
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #b30000;
+                }
+                .pizza-details 
+                {
+                    font-size: 16px;
+                    margin-top: 5px;
+                    color: #555;
+                }
+                /*Paste*/
+                .menu-section 
+                {
+                    max-width: 700px;
+                    margin: 0 auto;
+                    background-color: #fff;
+                    border-radius: 12px;
+                    padding: 30px;
+                    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                }
+                .dish-item 
+                {
+                    margin-bottom: 25px;
+                    border-bottom: 1px solid #eee;
+                    padding-bottom: 15px;
+                }
+                .dish-header 
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #b30000;
+                }
+                .dish-details 
+                {
+                    font-size: 16px;
+                    margin-top: 5px;
+                    color: #555;
+                }
+                /*salate*/
+                .menu-section 
+                {
+                    max-width: 700px;
+                    margin: 0 auto;
+                    background-color: #fff;
+                    border-radius: 12px;
+                    padding: 30px;
+                    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                }
+                .dish-item 
+                {
+                    margin-bottom: 25px;
+                    border-bottom: 1px solid #eee;
+                    padding-bottom: 15px;
+                }
+                .dish-header 
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #b30000;
+                }
+                .dish-details 
+                {
+                    font-size: 16px;
+                    margin-top: 5px;
+                    color: #555;
+                }
+                /*Antreu*/
+                .menu-section 
+                {
+                    max-width: 700px;
+                    margin: 0 auto;
+                    background-color: #fff;
+                    border-radius: 12px;
+                    padding: 30px;
+                    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                }
+                .dish-item 
+                {
+                    margin-bottom: 25px;
+                    border-bottom: 1px solid #eee;
+                    padding-bottom: 15px;
+                }
+                .dish-header 
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #b30000;
+                }
+                .dish-details 
+                {
+                    font-size: 16px;
+                    margin-top: 5px;
+                    color: #555;
+                }
+                .menu-section 
+                {
+                    max-width: 700px;
+                    margin: 0 auto;
+                    background-color: #fff;
+                    border-radius: 12px;
+                    padding: 30px;
+                    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                }
+                .dish-item 
+                {
+                    margin-bottom: 25px;
+                    border-bottom: 1px solid #eee;
+                    padding-bottom: 15px;
+                }
+                .dish-header 
+                {
+                    display: flex;
+                    justify-content: space-between;
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #b30000;
+                }
+                .dish-details 
+                {
+                    font-size: 16px;
+                    margin-top: 5px;
+                    color: #555;
+                }
+                h2
+                {
+                    text-shadow: 2px 2px 2px grey;
+                }
+                
